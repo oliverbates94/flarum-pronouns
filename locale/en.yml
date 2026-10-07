@@ -1,0 +1,22 @@
+oliverbates-pronouns:
+  admin:
+    permissions:
+      edit-own-pronouns-label: "Edit own pronouns"
+
+    settings:
+      max-pronouns-length-label: "Max pronouns length"
+      max-pronouns-length-help: "How long can the pronouns be"
+      default-pronouns-color-label: "Default pronouns color"
+      default-pronouns-color-help: "The color the pronouns will be the first time, users can change it later"
+
+  forum:
+    user:
+      settings:
+        pronouns-heading: "Pronouns"
+        insert-pronouns: "Insert pronouns"
+        change-pronouns: "Change Pronouns"
+        choose-pronouns-color: "Choose the background color"
+        submit: "Save changes"
+
+    sign_up:
+      pronouns-placeholder: "Pronouns"
